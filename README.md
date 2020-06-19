@@ -1,1 +1,4 @@
 # Resume
+---
+permalink: /index.html
+---
